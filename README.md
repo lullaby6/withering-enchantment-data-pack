@@ -6,7 +6,7 @@ The enchantment has a max of 2 levels, for each level, increases the duration of
 
 This new enchantment can be obtained from the enchantment table, loot chests or trades with villagers.
 
-Version: 1.21.4
+Version: `1.21.4`
 
 ## Commands
 
