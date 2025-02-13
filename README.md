@@ -1,10 +1,10 @@
 # Withering Enchantment
 
-This datapack adds the `Withering` enchantment for the swords, this new enchantment apply wither effect to the victims.
+This Data-Pack adds the `Withering` enchantment for swords, which applies wither to victims.
 
 The enchantment has a max of 2 levels, for each level, increases the duration of the effect.
 
-This new enchantment can be obtained from the enchantment table, loot chests or trades with villagers.
+The enchantment can be obtained from the enchantment table, loot chests or trading with villagers.
 
 Version: `1.21.4`
 
